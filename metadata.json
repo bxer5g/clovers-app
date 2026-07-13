@@ -1,0 +1,6 @@
+{
+  "name": "Clovers",
+  "description": "Premium luxury fashion shopping experience with an AI Stylist and custom fashion recommendation features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
