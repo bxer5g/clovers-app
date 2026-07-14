@@ -54,7 +54,6 @@ buildTypes {
         // ใช้ debug keystore ที่ Android สร้างให้อัตโนมัติ
     }
 }
-  }
   compileOptions {
     sourceCompatibility = JavaVersion.VERSION_11
     targetCompatibility = JavaVersion.VERSION_11
